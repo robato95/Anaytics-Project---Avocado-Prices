@@ -14,3 +14,5 @@ from sklearn.metrics import *
 
 
 ![](/graphs/Forecast.png)
+
+![](/graphs/Metrics.png)
